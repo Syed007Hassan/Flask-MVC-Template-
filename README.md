@@ -9,7 +9,7 @@ Minimal Flask Application using MVC design pattern
 
 </div>
 
-# Pattern 
+# Design Pattern 
 
 
 <div align="center">
